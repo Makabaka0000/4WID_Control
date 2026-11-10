@@ -1,2 +1,3 @@
-# 4WID_Control
-Supplementary proofs for a dual-RBF observer and prescribed-performance fault-tolerant control of four-wheel independent-drive electric vehicles.
+## Supplementary Appendix
+
+[Read the appendix (PDF)](./appendix.pdf) for the proofs of Theorem 1 (observer error stability) and Theorem 2 (prescribed tracking performance).
